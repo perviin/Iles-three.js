@@ -26,7 +26,7 @@ Ce projet affiche une île stylisée en 3D avec un ciel bleu, des ombres, un eff
 2. Un lien s'affichera dans votre terminal, rendez-vous sur celui-ci. Sinon rendez-vous sur http://localhost:5173
 
 ## Structure du projet
-
+```plain text
 projet-island-3D/
 ├── public/        # Contient le fichier GLB du modèle 3D
 │   ├── favicon.ico # Icone du site
