@@ -1,4 +1,8 @@
-# Projet Île 3D en Three.js
+# Projet Île 3D en Three.js - https://perviin-iles.netlify.app/
+
+## Description
+
+Ce projet affiche une île stylisée en 3D avec un ciel bleu, des ombres, un effet de brouillard et un plan d'eau semi-transparent. L'utilisateur peut interagir avec la scène via la souris.
 
 ## Technologies utilisées
 
@@ -8,9 +12,6 @@
 - **WebGLRenderer** : Rendu optimisé avec antialiasing et gestion des ombres
 - **JavaScript (ES6)** : Développement du script
 
-## Description
-
-Ce projet affiche une île stylisée en 3D avec un ciel bleu, des ombres, un effet de brouillard et un plan d'eau semi-transparent. L'utilisateur peut interagir avec la scène via la souris.
 
 ## Installation & Exécution
 
